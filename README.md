@@ -1,2 +1,4 @@
-# TestGit
-test
+# Git 공부
+
+25/07/29
+Git 활용하기 공부
